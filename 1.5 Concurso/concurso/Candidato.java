@@ -1,3 +1,4 @@
+package concurso;
 public class Candidato implements Comparable<Candidato> {
 
 	private int nota;
